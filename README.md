@@ -9,6 +9,9 @@ Setup of daily work
 
 ## To use
 cd ~
+
 git clone https://github.com/shubham-shinde/terminal-setup.git
+
 cd terminal-setup
+
 mv * ../
