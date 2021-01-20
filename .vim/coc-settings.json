@@ -1,0 +1,50 @@
+{
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "typescript",
+    "javascriptreact",
+    "json",
+    "css",
+    "markdown",
+    "scss",
+    "ruby"
+  ],
+  "coc.preferences.formatOnType": true,
+  "languageserver": {
+    "ccls": {
+      "command": "ccls",
+      "filetypes": ["c", "cpp", "objc", "objcpp"],
+      "rootPatterns": [
+        ".ccls",
+        "compile_commands.json",
+        ".vim/",
+        ".git/",
+        ".hg/"
+      ],
+      "initializationOptions": { "cache": { "directory": "/tmp/ccls" } }
+    },
+    "dockerfile": {
+      "command": "docker-langserver",
+      "filetypes": ["dockerfile"],
+      "args": ["--stdio"]
+    },
+    "bash": {
+      "command": "bash-language-server",
+      "args": ["start"],
+      "filetypes": ["sh"],
+      "ignoredRootPaths": ["~"]
+    }
+  },
+  "tsserver.npm": "/usr/local/bin/npm",
+  "javascript.suggestionActions.enabled": false,
+  "javascript.showUnused": false,
+  "javascript.format.enabled": false,
+  "typescript.format.enabled": false,
+  "python.jediEnabled": false,
+  "prettier.eslintIntegration": true,
+  "solargraph.diagnostics": true,
+  "solargraph.autoformat": true,
+  "solargraph.completion": true,
+  "solargraph.formatting": false,
+  "solargraph.hover": true
+}

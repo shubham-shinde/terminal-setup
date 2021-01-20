@@ -1,0 +1,16 @@
+/*
+!.gitignore
+!README.md
+
+!.vim
+!.vimrc
+!.zshrc
+!.bashrc
+!.tmux
+!.tmux.conf
+!.oh-my-zsh
+!zsh-git-prompt
+!.fzf.zsh
+!.fzf.bash
+!.gitconfig
+!.bashrc
