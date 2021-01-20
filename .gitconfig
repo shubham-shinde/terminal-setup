@@ -1,0 +1,9 @@
+[user]
+	email = shindes0321@gmail.com
+	name = shubham-shinde
+[alias]
+	view = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
+	ck = checkout
+	acom = !git add -A && git commit -m
+[push]
+	default = current
