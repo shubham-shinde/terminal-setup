@@ -164,6 +164,26 @@ augroup END
 " erb file as html
 autocmd BufNewFile,BufRead *.html.erb set filetype=html
 
+autocmd filetype cpp map <Leader>rr :!bash -c "g++ -std=c++17 -Wall % -o %:r.exe && ./%:r.exe < ./%:r.test > ./%:r.out"<CR>
+
+function! CreateCPFiles(line)
+	let current_path =expand('%:p:h') " /maindir/subdir
+	let path =current_path.'/'.a:line " /maindir/subdir/name
+	let file_name =a:line " name
+	let file_path =path.'/'.file_name " /maindir/subdir/name/name
+	" touch /maindir/subdir/name/name.cpp /maindir/subdir/name/name.out /maindir/subdir/name/name.in
+	let touch ='touch '.file_path.'.cpp '.file_path.'.test '.file_path.'.out'
+	" echo touch
+	execute(':!bash -c "mkdir '.path.' && '.touch.'"' )
+	" fill template to file if file is empty
+	execute(':!bash -c "[[ -s '.file_path.'.cpp ]] || cat ~/.vim.cpp > '.file_path.'.cpp"' )
+	execute(':edit '.file_path.'.cpp')
+	execute(':vsplit '.file_path.'.test')
+	execute(':vertical resize -25')
+	execute(':split '.file_path.'.out')
+endfunction
+command! -nargs=+ -complete=dir CPNEW call CreateCPFiles(<f-args>)
+
 
 " augroup FiletypeGroup
 " 	autocmd!
