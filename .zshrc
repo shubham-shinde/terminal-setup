@@ -138,8 +138,8 @@ alias gisttumxconf='sudo gist -u d03e2d76d4f2d1ac4ee891ee9e5f828e ~/.tmux.conf'
 alias gistvimrc='sudo gist -u 47aee53e3ca869dac60eb42ed6c4b0b6 ~/.vimrc'
 alias copy='xclip -selection clipboard'
 alias backend_migration="ssh -i ~/.ssh/comet-mumbai.pem ubuntu@3.7.68.209"
-alias mountvm_migration="sshfs -o follow_symlinks,transform_symlinks ubuntu@3.7.68.209:/home/ubuntu/api-optimisation/shubham/ ~/Desktop/Gocomet/gocomet_remote  -o IdentityFile=~/.ssh/comet-mumbai.pem"
-alias umountvm_migration="umount ~/Desktop/Gocomet/gocomet_remote"
+alias mountvm_migration="sshfs -o follow_symlinks,transform_symlinks ubuntu@3.7.68.209:/home/ubuntu/api-optimisation/shubham/ ~/Desktop/gocomet_remote  -o IdentityFile=~/.ssh/comet-mumbai.pem"
+alias umountvm_migration="umount ~/Desktop/gocomet_remote"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
