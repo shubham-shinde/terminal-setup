@@ -152,7 +152,10 @@ augroup configgroup
   autocmd FileType ruby setlocal shiftwidth=2
   autocmd FileType ruby setlocal softtabstop=2
   autocmd FileType ruby setlocal commentstring=#\ %s
-  autocmd FileType python setlocal commentstring=#\ %s
+	autocmd FileType python setlocal tabstop=4
+	autocmd FileType python setlocal shiftwidth=4
+	autocmd FileType python setlocal softtabstop=4
+  " autocmd FileType python setlocal commentstring=#\ %s
   autocmd BufEnter *.cls setlocal filetype=java
   autocmd BufEnter *.zsh-theme setlocal filetype=zsh
   autocmd BufEnter Makefile setlocal noexpandtab
@@ -284,6 +287,8 @@ Plug 'PeterRincker/vim-argumentative'
 Plug 'junegunn/vader.vim'
 " Plug 'ternjs/tern_for_vim'
 Plug 'sheerun/vim-polyglot'
+Plug 'puremourning/vimspector'
+
 call plug#end()
 
 " filetype plugin indent on    " required
@@ -443,6 +448,10 @@ nnoremap <silent> <space>k  :<C-u>CocPrev<CR>
 " Resume latest coc list.
 nnoremap <silent> <space>p  :<C-u>CocListResume<CR>
 " ================ COC END =======================
+"
+" Vimspector
+let g:vimspector_enable_mappings = 'HUMAN'
+
 "
 " polyglot
 

@@ -138,6 +138,8 @@ alias gisttumxconf='sudo gist -u d03e2d76d4f2d1ac4ee891ee9e5f828e ~/.tmux.conf'
 alias gistvimrc='sudo gist -u 47aee53e3ca869dac60eb42ed6c4b0b6 ~/.vimrc'
 alias copy='xclip -selection clipboard'
 alias backend_migration="ssh -i ~/.ssh/comet-mumbai.pem ubuntu@3.7.68.209"
+alias backend_graph="ssh -i ~/.ssh/byjus_metacademy_key.pem ubuntu@54.162.168.183"
+alias backend_mn_sql="ssh -i ~/.ssh/mn_sql_keypair.pem ubuntu@3.95.22.82"
 alias mountvm_migration="sshfs -o follow_symlinks,transform_symlinks ubuntu@3.7.68.209:/home/ubuntu/api-optimisation/shubham/ ~/Desktop/gocomet_remote  -o IdentityFile=~/.ssh/comet-mumbai.pem"
 alias umountvm_migration="umount ~/Desktop/gocomet_remote"
 

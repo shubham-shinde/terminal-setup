@@ -1,0 +1,61 @@
+pane	0	0	:zsh	1	:*	0	:/home/lenovo	1	zsh	:
+pane	basic	0	:bash	0	:	0	:/home/lenovo/snap/exercism/5/exercism/bash	1	vim	:vim
+pane	basic	1	:random	0	:-	0	:/home/lenovo	1	vim	:vim .bashrc
+pane	basic	2	:vim	0	:	0	:/home/lenovo/Downloads/movie_with_subs_on_meet	1	vim	:vim
+pane	basic	2	:vim	0	:	1	:/home/lenovo/Downloads/movie_with_subs_on_meet	0	zsh	:
+pane	basic	2	:vim	0	:	2	:/home/lenovo	0	zsh	:
+pane	basic	3	:algoVisualizer	0	:Z	0	:/home/lenovo/Desktop/work/sortingVisualizer	0	zsh	:
+pane	basic	3	:algoVisualizer	0	:Z	1	:/home/lenovo/Desktop/work/sortingVisualizer	1	zsh	:
+pane	basic	4	:cometative and ds	1	:*	0	:/home/lenovo/Desktop/work/competative-and-DS	1	vim	:vim
+pane	basic	5	:comet	0	:	0	:/home/lenovo/Desktop/work/hello-cli	0	vim	:vim
+pane	basic	5	:comet	0	:	1	:/home/lenovo/Desktop/work/hello-cli	1	zsh	:
+pane	basic	7	:nginxTask	0	:	0	:/home/lenovo/Desktop/work/nginxTask	1	zsh	:
+pane	byjus	0	:vpm	0	:-	0	:/home/lenovo/Desktop/byjus	0	sudo	:sudo openvpn --config client.ovpn
+pane	byjus	0	:vpm	0	:-	1	:/home/lenovo/Desktop/byjus/temp	1	vim	:vim graph_data.json
+pane	byjus	1	:metacademy	0	:	0	:/home/lenovo/Desktop/byjus/metacademy-application	1	vim	:vim
+pane	byjus	1	:metacademy	0	:	1	:/home/lenovo/Desktop/byjus/metacademy-application	0	zsh	:
+pane	byjus	1	:metacademy	0	:	2	:/home/lenovo/Desktop/byjus/metacademy-application	0	zsh	:
+pane	byjus	2	:graph-BE	0	:	0	:/home/lenovo/Desktop/byjus/graph_backend	1	vim	:vim
+pane	byjus	2	:graph-BE	0	:	1	:/home/lenovo/Desktop/byjus/graph_backend	0	npm	:npm
+pane	byjus	2	:graph-BE	0	:	2	:/home/lenovo/Desktop/byjus/graph_backend	0	mongo	:mongo
+pane	byjus	2	:graph-BE	0	:	3	:/home/lenovo/Desktop/byjus/graph_backend	0	node	:node
+pane	byjus	4	:search_api	1	:*	0	:/home/lenovo/Desktop/byjus/byjus_search_api	1	vim	:vim
+pane	gocomet_cipher-3	0	:gocomet-app	0	:	0	:/home/lenovo/Desktop/Gocomet/gocomet-app	0	vim	:vim
+pane	gocomet_cipher-3	0	:gocomet-app	0	:	1	:/home/lenovo/Desktop/Gocomet/gocomet-app	0	zsh	:
+pane	gocomet_cipher-3	0	:gocomet-app	0	:	2	:/home/lenovo/Desktop/Gocomet/gocomet-app	1	zsh	:
+pane	gocomet_cipher-3	0	:gocomet-app	0	:	3	:/home/lenovo/Desktop/Gocomet/gocomet-app	0	zsh	:
+pane	gocomet_cipher-3	1	:frontend-service	0	:-	0	:/home/lenovo/Desktop/Gocomet/frontend-service	1	vim	:vim
+pane	gocomet_cipher-3	1	:frontend-service	0	:-	1	:/home/lenovo/Desktop/Gocomet/frontend-service	0	zsh	:
+pane	gocomet_cipher-3	1	:frontend-service	0	:-	2	:/home/lenovo/Desktop/Gocomet/frontend-service	0	zsh	:
+pane	gocomet_cipher-3	2	:sudo	1	:*	0	:/home/lenovo/Desktop/Gocomet	1	zsh	:
+pane	gocomet_cipher-3	2	:sudo	1	:*	1	:/home/lenovo/Desktop/Gocomet	0	zsh	:
+pane	gocomet_cipher-3	3	:gocomet-dashboard	0	:	0	:/home/lenovo/Desktop/Gocomet/gocomet-dashboard	1	vim	:vim
+pane	gocomet_cipher-3	4	:gocomet-sidecar	0	:	0	:/home/lenovo/Desktop/Gocomet/gocomet-sidecar	0	vim	:vim
+pane	gocomet_cipher-3	4	:gocomet-sidecar	0	:	1	:/home/lenovo/Desktop/Gocomet/gocomet-sidecar	1	zsh	:
+pane	gocomet_cipher-3	4	:gocomet-sidecar	0	:	2	:/home/lenovo/Desktop/Gocomet/gocomet-sidecar	0	zsh	:
+pane	gocomet_cipher-3	5	:movie-party	0	:	0	:/home/lenovo/Desktop/Gocomet/movie-party	1	vim	:vim
+pane	gocomet_cipher-3	6	:gocomet remote	0	:	0	:/home/lenovo	0	vim	:vim
+pane	gocomet_cipher-3	6	:gocomet remote	0	:	1	:/home/lenovo	1	zsh	:
+pane	gocomet_cipher-3	7	:contracts	0	:	0	:/home/lenovo/Desktop/Gocomet/schaeffler_contracts	0	vim	:vim
+pane	gocomet_cipher-3	7	:contracts	0	:	1	:/home/lenovo/Desktop/Gocomet/schaeffler_contracts	1	zsh	:
+window	0	0	1	:*	cd5d,211x58,0,0,0
+window	basic	0	0	:	cd5e,211x58,0,0,1
+window	basic	1	0	:-	cd5f,211x58,0,0,2
+window	basic	2	0	:	e76d,211x58,0,0[211x43,0,0,3,211x14,0,44{105x14,0,44,4,105x14,106,44,5}]
+window	basic	3	0	:Z	501b,211x58,0,0[211x36,0,0,6,211x21,0,37,7]
+window	basic	4	1	:*	cd65,211x58,0,0,8
+window	basic	5	0	:	a855,211x58,0,0[211x36,0,0,9,211x21,0,37,10]
+window	basic	7	0	:	66e0,211x58,0,0,11
+window	byjus	0	0	:-	5d47,211x58,0,0{105x58,0,0,12,105x58,106,0,13}
+window	byjus	1	0	:	d2b3,211x58,0,0[211x43,0,0,14,211x14,0,44{105x14,0,44,15,105x14,106,44,16}]
+window	byjus	2	0	:	8a47,211x58,0,0[211x43,0,0,17,211x14,0,44{105x14,0,44,18,52x14,106,44,19,52x14,159,44,40}]
+window	byjus	4	1	:*	e6e3,211x58,0,0,43
+window	gocomet_cipher-3	0	0	:	cb6a,211x58,0,0[211x46,0,0,21,211x11,0,47{74x11,0,47,22,74x11,75,47,23,61x11,150,47,24}]
+window	gocomet_cipher-3	1	0	:-	8113,211x58,0,0[211x37,0,0,25,211x20,0,38{105x20,0,38,26,105x20,106,38,27}]
+window	gocomet_cipher-3	2	1	:*	dd4d,211x58,0,0{105x58,0,0,28,105x58,106,0,29}
+window	gocomet_cipher-3	3	0	:	66e0,211x58,0,0,30
+window	gocomet_cipher-3	4	0	:	3104,211x58,0,0[211x37,0,0,31,211x20,0,38{105x20,0,38,32,105x20,106,38,33}]
+window	gocomet_cipher-3	5	0	:	66e4,211x58,0,0,34
+window	gocomet_cipher-3	6	0	:	fc42,211x58,0,0[211x46,0,0,35,211x11,0,47,36]
+window	gocomet_cipher-3	7	0	:	fc45,211x58,0,0[211x46,0,0,37,211x11,0,47,38]
+state	byjus	gocomet_cipher-3

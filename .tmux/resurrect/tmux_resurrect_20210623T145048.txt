@@ -1,0 +1,57 @@
+pane	basic	0	:bash	0	:	0	:/home/lenovo/snap/exercism/5/exercism/bash	1	vim	:vim
+pane	basic	1	:random	0	:	0	:/home/lenovo/Downloads/season8	1	vim	:vim
+pane	basic	1	:random	0	:	1	:/home/lenovo/Downloads/season7\ (deleted)	0	zsh	:
+pane	basic	2	:vim	1	:*	0	:/home/lenovo/Downloads/movie_with_subs_on_meet	1	vim	:vim
+pane	basic	2	:vim	1	:*	1	:/home/lenovo/Downloads/movie_with_subs_on_meet	0	zsh	:
+pane	basic	2	:vim	1	:*	2	:/home/lenovo/Downloads/season8	0	zsh	:
+pane	basic	3	:algoVisualizer	0	:Z	0	:/home/lenovo/Desktop/work/sortingVisualizer	0	zsh	:
+pane	basic	3	:algoVisualizer	0	:Z	1	:/home/lenovo/Desktop/work/sortingVisualizer	1	zsh	:
+pane	basic	4	:cometative and ds	0	:-	0	:/home/lenovo/Desktop/work/competative-and-DS	1	vim	:vim
+pane	basic	5	:comet	0	:	0	:/home/lenovo/Desktop/work/hello-cli	0	vim	:vim
+pane	basic	5	:comet	0	:	1	:/home/lenovo/Desktop/work/hello-cli	1	zsh	:
+pane	basic	6	:collegebuzzer frontend	0	:	0	:/home/lenovo/Desktop/work/collegebuzzer_frontend	0	vim	:vim
+pane	basic	6	:collegebuzzer frontend	0	:	1	:/home/lenovo/Desktop/work/collegebuzzer_frontend	1	zsh	:
+pane	basic	7	:nginxTask	0	:	0	:/home/lenovo/Desktop/work/nginxTask	1	zsh	:
+pane	basic	8	:collegebuzzer backend	0	:	0	:/home/lenovo/Desktop/work/collegebuzzer-api	0	vim	:vim
+pane	basic	8	:collegebuzzer backend	0	:	1	:/home/lenovo/Desktop/work/collegebuzzer-api	0	zsh	:
+pane	basic	8	:collegebuzzer backend	0	:	2	:/home/lenovo/Desktop/work/collegebuzzer-api	0	zsh	:
+pane	basic	8	:collegebuzzer backend	0	:	3	:/home/lenovo/Desktop/work/collegebuzzer-api	1	zsh	:
+pane	byjus	0	:vpm	1	:*M	0	:/home/lenovo/Desktop/byjus	1	zsh	:
+pane	gocomet_cipher-3	0	:gocomet-app	0	:	0	:/home/lenovo/Desktop/Gocomet/gocomet-app	0	vim	:vim
+vim
+pane	gocomet_cipher-3	0	:gocomet-app	0	:	1	:/home/lenovo/Desktop/Gocomet/gocomet-app	0	zsh	:
+pane	gocomet_cipher-3	0	:gocomet-app	0	:	2	:/home/lenovo/Desktop/Gocomet/gocomet-app	1	zsh	:
+pane	gocomet_cipher-3	0	:gocomet-app	0	:	3	:/home/lenovo/Desktop/Gocomet/gocomet-app	0	zsh	:
+pane	gocomet_cipher-3	1	:frontend-service	0	:-	0	:/home/lenovo/Desktop/Gocomet/frontend-service	1	vim	:vim
+pane	gocomet_cipher-3	1	:frontend-service	0	:-	1	:/home/lenovo/Desktop/Gocomet/frontend-service	0	zsh	:
+pane	gocomet_cipher-3	1	:frontend-service	0	:-	2	:/home/lenovo/Desktop/Gocomet/frontend-service	0	node	:node /usr/share/yarn/bin/yarn.js dev
+pane	gocomet_cipher-3	2	:sudo	1	:*	0	:/home/lenovo/Desktop/Gocomet	1	zsh	:
+pane	gocomet_cipher-3	2	:sudo	1	:*	1	:/home/lenovo/Desktop/Gocomet	0	zsh	:
+pane	gocomet_cipher-3	3	:gocomet-dashboard	0	:	0	:/home/lenovo/Desktop/Gocomet/gocomet-dashboard	1	vim	:vim
+pane	gocomet_cipher-3	4	:gocomet-sidecar	0	:	0	:/home/lenovo/Desktop/Gocomet/gocomet-sidecar	0	vim	:vim
+pane	gocomet_cipher-3	4	:gocomet-sidecar	0	:	1	:/home/lenovo/Desktop/Gocomet/gocomet-sidecar	1	zsh	:
+pane	gocomet_cipher-3	4	:gocomet-sidecar	0	:	2	:/home/lenovo/Desktop/Gocomet/gocomet-sidecar	0	puma	:puma 4.1.1 (tcp://localhost:3001) [gocomet-sidecar]
+pane	gocomet_cipher-3	5	:movie-party	0	:	0	:/home/lenovo/Desktop/Gocomet/movie-party	1	vim	:vim
+pane	gocomet_cipher-3	6	:gocomet remote	0	:	0	:/home/lenovo/Desktop/Gocomet/medcrawl	0	vim	:vim
+pane	gocomet_cipher-3	6	:gocomet remote	0	:	1	:/home/lenovo/Desktop/Gocomet/medcrawl	1	zsh	:
+pane	gocomet_cipher-3	7	:contracts	0	:	0	:/home/lenovo/Desktop/Gocomet/schaeffler_contracts	0	vim	:vim
+pane	gocomet_cipher-3	7	:contracts	0	:	1	:/home/lenovo/Desktop/Gocomet/schaeffler_contracts	1	zsh	:
+window	basic	0	0	:	cdbe,173x48,0,0,1
+window	basic	1	0	:	f7e8,173x48,0,0[173x33,0,0,2,173x14,0,34,3]
+window	basic	2	1	:*	aa6c,173x48,0,0[173x38,0,0,38,173x9,0,39{86x9,0,39,39,86x9,87,39,40}]
+window	basic	3	0	:Z	a9f2,173x48,0,0[173x31,0,0,6,173x16,0,32,7]
+window	basic	4	0	:-	cdc5,173x48,0,0,8
+window	basic	5	0	:	5541,173x48,0,0[173x31,0,0,9,173x16,0,32,10]
+window	basic	6	0	:	4637,173x48,0,0[173x33,0,0,11,173x14,0,34,12]
+window	basic	7	0	:	6712,173x48,0,0,13
+window	basic	8	0	:	e7dc,173x48,0,0[173x33,0,0,14,173x14,0,34{39x14,0,34,15,39x14,40,34,16,93x14,80,34,17}]
+window	byjus	0	1	:*M	cdbd,173x48,0,0,0
+window	gocomet_cipher-3	0	0	:	1306,173x48,0,0[173x41,0,0,18,173x6,0,42{61x6,0,42,19,61x6,62,42,20,49x6,124,42,21}]
+window	gocomet_cipher-3	1	0	:-	f0b4,173x48,0,0[173x32,0,0,22,173x15,0,33{86x15,0,33,23,86x15,87,33,24}]
+window	gocomet_cipher-3	2	1	:*	4d9d,173x48,0,0{86x48,0,0,25,86x48,87,0,26}
+window	gocomet_cipher-3	3	0	:	e716,173x48,0,0,27
+window	gocomet_cipher-3	4	0	:	1177,173x48,0,0[173x32,0,0,28,173x15,0,33{86x15,0,33,29,86x15,87,33,30}]
+window	gocomet_cipher-3	5	0	:	6711,173x48,0,0,31
+window	gocomet_cipher-3	6	0	:	e865,173x48,0,0[173x41,0,0,32,173x6,0,42,34]
+window	gocomet_cipher-3	7	0	:	6868,173x48,0,0[173x41,0,0,33,173x6,0,42,35]
+state	byjus	basic
