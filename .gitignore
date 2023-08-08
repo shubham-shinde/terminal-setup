@@ -16,3 +16,5 @@
 !.gitconfig
 !.bashrc
 !.config
+!beast_startup.py
+!beast_startup.sh
